@@ -3,3 +3,17 @@
 body {
   background-color: #fdf6e3
 }
+
+header, footer {
+  font-size: 1.5rem
+}
+
+/* Navigation */
+
+nav ul {
+  font-family: sans serif;
+}
+
+header h1 {
+  text-transform: uppercase
+}
