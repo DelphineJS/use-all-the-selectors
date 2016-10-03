@@ -1,4 +1,3 @@
-/* Main Formatting */
 
 body {
   background-color: #fdf6e3
@@ -7,8 +6,6 @@ body {
 header, footer {
   font-size: 1.5rem
 }
-
-/* Navigation */
 
 nav ul {
   font-family: sans serif;
